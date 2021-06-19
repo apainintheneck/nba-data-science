@@ -1,7 +1,8 @@
 #### Predicting Game Outcomes from 2019 NBA Season
 #### Date: 06/18/21
 #### Team: Bryce Randolph, Jeannie Davis, Harsandeep Singh, Kevin Robell
-#### Github Link: https://github.com/apainintheneck/nba-data-science/
+#### Project Link: https://github.com/apainintheneck/nba-data-science/
+#### Video Link:
 ---
 ### Introduction
 Our group wanted to try and find out how well we could predict the outcome of NBA games. We decided to use [a NBA games dataset](https://www.kaggle.com/nathanlauga/nba-games) that we found on [Kaggle](https://www.kaggle.com) which contains all the information including statistics, teams, and dates from 2004-2020. The hope is that we can create a reasonably accurate model and look at the effectiveness of different in-game counting stats to predict the winner.
